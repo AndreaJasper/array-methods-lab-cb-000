@@ -10,7 +10,7 @@ end
 
 def using_reverse(array)
   list = ["wow", "I", "am", "arrays!", "hello", "goodbye"]
-  list.reverse
+  list.reverse!
 end
 
 def using_first(array)
